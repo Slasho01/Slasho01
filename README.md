@@ -72,9 +72,10 @@ Programador Junior versátil con experiencia en tecnologías de vanguardia, impu
 
   
 
+
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=Slasho01&&style=flat-square)  
   
 
 <br/>  
