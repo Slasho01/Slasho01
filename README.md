@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://m.media-amazon.com/images/M/MV5BYmI2M2VlNjUtYzM3OS00NDVmLWJlYjYtZDk1NWRmZmZkYTUzXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_.jpg" align="center" style="width: 100%" />
+<img src="https://m.media-amazon.com/images/M/MV5BYmI2M2VlNjUtYzM3OS00NDVmLWJlYjYtZDk1NWRmZmZkYTUzXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_.jpg" align="center" style="width: 60%" />
 </div>  
   
 
