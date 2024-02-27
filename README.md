@@ -1,3 +1,4 @@
+
 ## Hey, 👋, soy Josue Rendón.  
   
 
@@ -18,7 +19,7 @@ Programador Junior versátil con experiencia en tecnologías de vanguardia, impu
 <br/>  
 
 
-## Rapidfire  
+## Now!
 <table><tr><td valign="top" width="50%">
 
 - 🌱Actualmente estoy aprendiendo Mongo DB  
@@ -27,7 +28,7 @@ Programador Junior versátil con experiencia en tecnologías de vanguardia, impu
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://m.media-amazon.com/images/M/MV5BYmI2M2VlNjUtYzM3OS00NDVmLWJlYjYtZDk1NWRmZmZkYTUzXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_.jpg" align="center" style="width: 100%" />
+<img src="https://m.media-amazon.com/images/M/MV5BYmI2M2VlNjUtYzM3OS00NDVmLWJlYjYtZDk1NWRmZmZkYTUzXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_.jpg" align="center" style="width: 60%" />
 </div>  
 
 
