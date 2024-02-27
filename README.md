@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://m.media-amazon.com/images/M/MV5BYmI2M2VlNjUtYzM3OS00NDVmLWJlYjYtZDk1NWRmZmZkYTUzXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_.jpg" align="center" style="width: 60%" />
+<img src="https://m.media-amazon.com/images/M/MV5BYmI2M2VlNjUtYzM3OS00NDVmLWJlYjYtZDk1NWRmZmZkYTUzXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -45,14 +45,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-</div>
 
 </td></tr></table>  
 
