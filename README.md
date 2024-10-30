@@ -22,7 +22,7 @@ Programador Junior versátil con experiencia en tecnologías de vanguardia, impu
 ## Now!
 <table><tr><td valign="top" width="50%">
 
-- 🌱Actualmente estoy aprendiendo Mongo DB  
+- 🌱Actualmente estoy aprendiendo Rust  
 
 
 </td><td valign="top" width="50%">
