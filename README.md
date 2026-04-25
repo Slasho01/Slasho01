@@ -27,15 +27,15 @@ Desarrollador Junior con experiencia en tecnologías web modernas, actualmente e
 ## 🛠️ Languages & Tools
 
 ### Dev
-![React](https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg height="30")
-![JavaScript](https://profilinator.rishav.dev/skills-assets/javascript-original.svg height="30")
-![Node.js](https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg height="30")
-![Express.js](https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg height="30")
-![Python](https://profilinator.rishav.dev/skills-assets/python-original.svg height="30")
-![MySQL](https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg height="30")
-![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg height="30")
-![CSS3](https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg height="30")
-![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg height="30")
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### Security
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
