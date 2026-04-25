@@ -23,7 +23,10 @@ Programador Junior versátil con experiencia en tecnologías de vanguardia, impu
 <table><tr><td valign="top" width="50%">
 
 - 🌱Actualmente estoy aprendiendo Rust  
-
+## 🔐 Cybersecurity
+- Estudiando para eJPT (INE Security)
+- Practicando en TryHackMe: [link a tu perfil]
+- Intereses: Web Pentesting, Network Security
 
 </td><td valign="top" width="50%">
 
