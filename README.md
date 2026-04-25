@@ -1,88 +1,83 @@
+<div align="center">
 
-## Hey, 👋, soy Josue Rendón.  
-  
+# Hey 👋, soy Josue Rendón
 
-<a href="https://github.com/slasho01" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/josuea-rendonc" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/josue.castro.3956" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josue-rendon-67721bb5)
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/slasho01)
 
-Programador Junior versátil con experiencia en tecnologías de vanguardia, impulsado por una pasión innata por la programación y la tecnología. Apasionado por explorar diferentes áreas dentro del campo, buscando constantemente oportunidades para expandir mi conocimiento y habilidades. Comprometido con el aprendizaje continuo y el desarrollo profesional en un entorno dinámico y en constante evolución  
-  
+</div>
 
-<br/>  
+---
 
+Desarrollador Junior con experiencia en tecnologías web modernas, actualmente expandiéndome hacia el mundo de la **ciberseguridad ofensiva**. Me apasiona entender cómo funcionan los sistemas — y cómo romperlos.
 
-## Now!
-<table><tr><td valign="top" width="50%">
+---
+
 ## 🔐 Cybersecurity
-- Estudiando para eJPT (INE Security)
-- Practicando en TryHackMe: [link a tu perfil]
-- Intereses: Web Pentesting, Network Security
 
-</td><td valign="top" width="50%">
+- 📚 Estudiando para la certificación **eJPT** (INE Security)
+- 🧪 Practicando en **TryHackMe** — enfocado en pentesting web y enumeración de redes
+- 📝 Documentando mis labs y write-ups → [ver repositorio](https://github.com/Slasho01/writeups)
+- 🎯 Intereses: Web Application Pentesting · Network Security · AppSec
+
+> *"El que sabe construir, sabe romper."*
+
+---
+
+## 🛠️ Languages & Tools
+
+### Dev
+![React](https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg height="30")
+![JavaScript](https://profilinator.rishav.dev/skills-assets/javascript-original.svg height="30")
+![Node.js](https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg height="30")
+![Express.js](https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg height="30")
+![Python](https://profilinator.rishav.dev/skills-assets/python-original.svg height="30")
+![MySQL](https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg height="30")
+![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg height="30")
+![CSS3](https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg height="30")
+![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg height="30")
+
+### Security
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logoColor=white)
+
+---
+
+## 🧩 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [Proyecto Integrador](https://github.com/Slasho01/Proyecto-Integrador) | Aplicación web full stack | JavaScript |
+| [FIT CONNECTION](https://github.com/Slasho01/FIT-CONNECTION-PF-GRUPO-02) | Proyecto final de grupo | JavaScript |
+| [Write-ups CTF](https://github.com/Slasho01/writeups) | Labs de pentesting documentados | Markdown |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://m.media-amazon.com/images/M/MV5BYmI2M2VlNjUtYzM3OS00NDVmLWJlYjYtZDk1NWRmZmZkYTUzXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_.jpg" align="center" style="width: 60%" />
-</div>  
 
+![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slasho01&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slasho01&layout=compact&theme=dark&hide_border=true)
 
-</td></tr></table>  
+</div>
 
-<br/>  
+---
 
+## 📍 Sobre mí
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-</div>  
+- 🇨🇱 Basado en Chile
+- 🌱 Aprendiendo **Rust** y **Pentesting**
+- 💡 Me interesa la intersección entre **desarrollo web** y **seguridad ofensiva**
+- 📫 Contáctame por [LinkedIn](https://linkedin.com/in/josue-rendon-67721bb5)
 
-<br/>  
+---
 
+<div align="center">
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+![Profile views](https://komarev.com/ghpvc/?username=Slasho01&style=flat-square)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Slasho01&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Slasho01&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
